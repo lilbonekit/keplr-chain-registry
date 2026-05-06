@@ -1,6 +1,6 @@
 {
   "rpc": "https://optimism-rpc.publicnode.com",
-  "websocket": "wss://optimism-rpc.publicnode.com/websocket",
+  "websocket": "wss://optimism-rpc.publicnode.com",
   "chainId": "eip155:10",
   "chainName": "Optimism",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:10/chain.png",
