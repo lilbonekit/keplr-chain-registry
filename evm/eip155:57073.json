@@ -1,6 +1,6 @@
 {
-  "rpc": "https://evm-57073.keplr.app",
-  "websocket": "wss://evm-57073.keplr.app/websocket",
+  "rpc": "https://rpc-ten.inkonchain.com",
+  "websocket": "wss://rpc-ten.inkonchain.com",
   "chainId": "eip155:57073",
   "chainName": "Ink",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:57073/chain.png",
