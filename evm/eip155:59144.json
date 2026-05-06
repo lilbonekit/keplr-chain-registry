@@ -1,6 +1,6 @@
 {
   "rpc": "https://linea-rpc.publicnode.com",
-  "websocket": "wss://linea-rpc.publicnode.com/websocket",
+  "websocket": "wss://linea-rpc.publicnode.com",
   "chainId": "eip155:59144",
   "chainName": "Linea",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:59144/chain.png",
