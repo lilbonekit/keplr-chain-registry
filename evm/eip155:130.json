@@ -1,6 +1,6 @@
 {
   "rpc": "https://unichain-rpc.publicnode.com",
-  "websocket": "wss://unichain-rpc.publicnode.com/websocket",
+  "websocket": "wss://unichain-rpc.publicnode.com",
   "chainId": "eip155:130",
   "chainName": "Unichain",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:130/chain.png",
