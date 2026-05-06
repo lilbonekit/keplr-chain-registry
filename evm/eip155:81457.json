@@ -1,6 +1,6 @@
 {
   "rpc": "https://blast-rpc.publicnode.com",
-  "websocket": "wss://blast-rpc.publicnode.com/websocket",
+  "websocket": "wss://blast-rpc.publicnode.com",
   "chainId": "eip155:81457",
   "chainName": "Blast",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:81457/chain.png",
