@@ -1,5 +1,5 @@
 {
-  "rpc": "https://evm-80094.keplr.app",
+  "rpc": "https://berachain-rpc.publicnode.com",
   "chainId": "eip155:80094",
   "chainName": "Berachain",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:80094/chain.png",
