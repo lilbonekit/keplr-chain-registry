@@ -1,9 +1,10 @@
 {
-  "rpc": "https://rpc-umee.mzonder.com",
-  "rest": "https://api-umee.mzonder.com",
+  "rpc": "https://umee-rpc.polkachu.com",
+  "rest": "https://umee-api.polkachu.com",
   "nodeProvider": {
-    "name": "MZONDER",
-    "website": "https://www.mzonder.com"
+    "name": "Polkachu",
+    "email": "hello@polkachu.com",
+    "website": "https://polkachu.com/"
   },
   "chainId": "umee-1",
   "chainName": "UX",
