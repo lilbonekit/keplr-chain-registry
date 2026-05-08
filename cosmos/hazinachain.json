@@ -1,6 +1,6 @@
-{
+  {
   "chainId": "hazinachain-1",
-  "chainName": "HazinaChain",
+  "chainName": "HazinaChain"   ,   
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/hazinachain/chain.png",
   "rpc": "https://rpc.hazinachain.com",
   "rest": "https://api.hazinachain.com",
