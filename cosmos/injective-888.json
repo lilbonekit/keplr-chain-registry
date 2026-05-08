@@ -1,6 +1,11 @@
 {
   "rpc": "https://testnet.sentry.tm.injective.network",
   "rest": "https://testnet.sentry.lcd.injective.network",
+  "evm": {
+    "chainId": 1439,
+    "rpc": "https://k8s.testnet.json-rpc.injective.network",
+    "websocket": "wss://k8s.testnet.ws.injective.network"
+  },
   "chainId": "injective-888",
   "chainName": "Injective (Testnet)",
   "nodeProvider": {
