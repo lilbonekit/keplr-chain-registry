@@ -20,6 +20,12 @@
       "coinGeckoId": "cosmos",
       "coinMinimalDenom": "uatom",
       "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/cosmoshub/uatom.png"
+    },
+    {
+      "coinDecimals": 6,
+      "coinDenom": "NTHR",
+      "coinMinimalDenom": "factory/cosmos1wdja2gcsesyl07raq9jm3rcvu0sse5zkev0h8m/Nether",
+      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/cosmoshub/factory/cosmos1wdja2gcsesyl07raq9jm3rcvu0sse5zkev0h8m/Nether.png"
     }
   ],
   "features": [
