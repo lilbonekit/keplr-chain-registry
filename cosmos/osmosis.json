@@ -159,7 +159,7 @@
     {
       "coinDenom": "allSHIB",
       "coinMinimalDenom": "factory/osmo1f588gk9dazpsueevdl2w6wfkmfmhg5gdvg2uerdlzl0atkasqhsq59qc6a/alloyed/allSHIB",
-      "coinDecimals": 12,
+      "coinDecimals": 18,
       "coinGeckoId": "shiba-inu",
       "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/osmosis/factory/osmo1f588gk9dazpsueevdl2w6wfkmfmhg5gdvg2uerdlzl0atkasqhsq59qc6a/alloyed/allSHIB.png"
     },
