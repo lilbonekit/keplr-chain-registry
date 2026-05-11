@@ -1,7 +1,7 @@
 {
   "chainId": "nvnm-1",
   "chainName": "NVNM Mainnet",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm-mainnet/chain.svg",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm-mainnet/chain.png",
   "rpc": "https://rpc.nvnmchain.io",
   "rest": "https://api.nvnmchain.io",
   "nodeProvider": {

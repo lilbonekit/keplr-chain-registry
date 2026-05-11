@@ -7,7 +7,7 @@
   },
   "chainId": "eip155:787111",
   "chainName": "NVNM Testnet EVM",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:787111/chain.svg",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/eip155:787111/chain.png",
   "bip44": {
     "coinType": 60
   },
