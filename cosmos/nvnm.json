@@ -1,7 +1,7 @@
 {
   "chainId": "nvnm-1",
   "chainName": "NVNM Mainnet",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm-mainnet/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm/chain.png",
   "rpc": "https://rpc.nvnmchain.io",
   "rest": "https://api.nvnmchain.io",
   "nodeProvider": {
@@ -25,7 +25,7 @@
       "coinDenom": "MANTRAUSD",
       "coinMinimalDenom": "amantrausd",
       "coinDecimals": 18,
-      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm-mainnet/mantraUSD.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm/mantraUSD.png"
     }
   ],
   "feeCurrencies": [
@@ -33,7 +33,7 @@
       "coinDenom": "MANTRAUSD",
       "coinMinimalDenom": "amantrausd",
       "coinDecimals": 18,
-      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm-mainnet/mantraUSD.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm/mantraUSD.png",
       "gasPriceStep": {
         "low": 100000,
         "average": 400000,
@@ -45,7 +45,7 @@
     "coinDenom": "MANTRAUSD",
     "coinMinimalDenom": "amantrausd",
     "coinDecimals": 18,
-    "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm-mainnet/mantraUSD.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/nvnm/mantraUSD.png"
   },
   "features": [
     "eth-address-gen",
